@@ -3,7 +3,7 @@
  * Plugin Name: Bookly pagination-list-service
  * Description: The very first plugin for Bookly Pagination list service
  * Version: 1.0
- * Author: Shobit New
+ * Author: Shobit
  * Author URI: localhost
  */
 function cat_theme_scripts()
