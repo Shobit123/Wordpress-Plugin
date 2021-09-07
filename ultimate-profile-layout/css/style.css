@@ -1,0 +1,20 @@
+.upl_first {
+    clear: both;
+}
+
+.upl_fullwidth{
+    width: 100%;
+}
+
+lable.upl_lable {
+    font-weight: 800;
+    font-size: initial;
+}
+
+.upl_fullwidth select {
+    width: 100%;
+}
+
+.hide{
+    display: none;
+}
